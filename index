@@ -114,7 +114,7 @@ input[type=range]{width:100%;accent-color:var(--gold);margin:.6rem 0 1.2rem}
 <section class="slide" aria-label="Finish"><div class="wrap"><h2>What to remember</h2><div class="panel"><p>Earth’s year is 365.2422 days, not 365.</p><p>Leap years fix most of the gap. The 100 and 400 rules fix the rest.</p><p>The Gregorian calendar stays within one day for about 3,000 years.</p></div><div id="closer">Every date you write is a bet on the Sun.</div><p class="mute">Thank you for watching.</p><button class="btn ghost" data-go="0">Back to start</button></div></section>
 
 </main>
-<nav class="bar" aria-label="Slides"><div class="ctl"><button class="nav" id="prev" aria-label="Previous slide">&lsaquo;</button><div class="dots" id="dots"></div><button class="nav" id="next" aria-label="Next slide">&rsaquo;</button></div><div class="credit">Made by 9A students Ayush Manker</div></nav>
+<nav class="bar" aria-label="Slides"><div class="ctl"><button class="nav" id="prev" aria-label="Previous slide">&lsaquo;</button><div class="dots" id="dots"></div><button class="nav" id="next" aria-label="Next slide">&rsaquo;</button></div><div class="credit">Made by 8A students Darsh, Shlok, Tanmay, Rudra</div></nav>
 
 <script>
 (function(){
